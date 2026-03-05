@@ -62,9 +62,9 @@
             this.label1.Font = new System.Drawing.Font("굴림", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label1.Location = new System.Drawing.Point(456, 249);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(206, 32);
+            this.label1.Size = new System.Drawing.Size(185, 32);
             this.label1.TabIndex = 4;
-            this.label1.Text = "왜　회색이야";
+            this.label1.Text = "제발 바꿔줘";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // Form1
